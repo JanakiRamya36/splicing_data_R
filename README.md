@@ -18,3 +18,8 @@ This project explores splicing factor relationships using a synthetic splicing d
 - **`splicing_data_R.R`** – R script for data preprocessing, statistical analysis, and predictive modeling  
 - **`splicing_data_R.docx`** – Documentation summarizing key findings  
 - **`README.md`** – Project documentation  
+
+## Author
+Janaki Ramya Namburu\
+email: janakiramyan36@gmail.com\
+LinkedIn: www.linkedin.com/in/janakiramya
